@@ -1,0 +1,47 @@
+{
+    "posts": [
+        {
+        "id": 1,
+        "title": "AngularJS (1.0.0)",
+        "titlel": "Shah",
+        "email":"pvh@godrej.com",
+        "releaseDate": "June 14th, 2012"
+    }, {
+        "id": 2,
+        "title": "Angular 2",
+        "titlel": "Patel",
+        "email":"yuvraj@trishegreensolutions.com",
+        "releaseDate": "September 14, 2016"
+    }, {
+        "id": 3,
+        "title": "Angular 4",
+        "titlel": "Tendulkar",
+        "email":"anand@cybermotionind.com",
+        "releaseDate": "March 23, 2017"
+    }, {
+        "id": 4,
+        "title": "Angular 5",
+        "titlel": "Dravid",
+        "email":"anand@cybermotionind.com",
+        "releaseDate": "November 1, 2017"
+    }, {
+        "id": 5,
+        "title": "Angular 6",
+        "titlel": "Kapadia",
+        "email":"jain_pritam@hotmail.com",
+        "releaseDate": "May 4th, 2018"
+    }, {
+        "id": 6,
+        "title": "Angular 7",
+        "titlel": "Gawde",
+        "email":"pavan@sungrace.net",
+        "releaseDate": "October 18, 2018"
+    }, {
+        "id": 6,
+        "title": "Angular 8",
+        "titlel": "Singh",
+        "email":"chetan@acvasolar.com",
+        "releaseDate": "May 28, 2019"
+    }
+]
+}
